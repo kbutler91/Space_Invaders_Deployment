@@ -202,5 +202,4 @@ def main():
         show_credit(10, 740)
         pygame.display.update()
 
-if __name__ == '__SpaceInvaders__':
-    app.run()
+main()
