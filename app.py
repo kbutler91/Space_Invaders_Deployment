@@ -202,4 +202,4 @@ def main():
         show_credit(10, 740)
         pygame.display.update()
 
-main()
+app.run()
